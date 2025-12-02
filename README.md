@@ -6,7 +6,7 @@
    > a. Windows: Download and Install (https://www.python.org/downloads/release/python-3140/)
    <br> b1. *nix: sudo apt install python3
    <br> b2. *nix: sudo yum install -y python3
-   <br> b3. *nix: Seriously, if the distro you are using doesn't have python and the above commands don't work then what are you doing with your life :(
+   <br> b3. *nix: Serious Talk 🙏, if the distro you are using doesn't have python and the above commands don't work then what are you doing with your life :(
 3. Install MongoDB
    > a. Windows: Download and install (https://www.mongodb.com/try/download/community)
    <br> b. *nix: sudo apt install -y mongodb
