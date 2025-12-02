@@ -2,7 +2,7 @@
 **Totally Don't Use This in Production**
 <br>
 ## What this is:
-This is a crappy project to replicate a video player like service that is minimalistic.
+I got bored, and this is a crappy project to replicate a videoplayer-like service that is minimalistic.
 <br> It does have some basic functionality like Loop, Shuffle, and Playlists but that is about it.
 <br> 
 <br> ## Installation Guide 
