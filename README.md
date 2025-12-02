@@ -3,7 +3,7 @@ Totally Don't Use This in Production
 
 Installation Guide (Maybe, Haven't Really Tested It, Good Luck >.<)
 1. Install Python (Tested on 3.14 PI)
-   a. Windows: Download and Install (https://www.python.org/downloads/release/python-3140/)
+   <br> a. Windows: Download and Install (https://www.python.org/downloads/release/python-3140/)
    b1. *nix: sudo apt install python3
    b2. *nix: sudo yum install -y python3
    b3. *nix: Seriously, if the distro you are using doesn't have python and the above commands don't work then what are you doing with your life :(
