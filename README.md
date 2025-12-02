@@ -22,6 +22,7 @@ This is a crappy project to replicate a video player like service that is minima
 4. Download and store FFmpeg.exe from (This Part is *optional* but **recommended** because this provides the functionality for the thumbnail creation):
    > a. Windows: https://www.gyan.dev/ffmpeg/builds/
    <br> b. *nix: https://ffmpeg.org/download.html
+5. Modify settings.py as needed (Video Directory and Secret Key)
 6. python manage.py migrate
 7. python manage.py runserver
 8. Enjoy...
