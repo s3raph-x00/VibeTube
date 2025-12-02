@@ -7,7 +7,7 @@ This is a crappy project to replicate a video player like service that is minima
 <br> 
 <br> ## Installation Guide 
 <br> (*Maybe, Haven't Really Tested It, Good Luck >.<*)
-1. Install Python (Tested on 3.14 PI)
+1. Install Python (Tested on 3.14)
    > a. Windows: Download and Install (https://www.python.org/downloads/release/python-3140/)
    <br> b1. *nix: sudo apt install python3
    <br> b2. *nix: sudo yum install -y python3
