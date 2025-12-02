@@ -14,7 +14,8 @@ This is a crappy project to replicate a video player like service that is minima
    <br> b3. *nix: Serious Talk, if the distro you are using doesn't have python and the above commands don't work then what are you doing with your life :(
 2. Install MongoDB
    > a. Windows: Download and install (https://www.mongodb.com/try/download/community)
-   <br> b. *nix: sudo apt install -y mongodb
+   <br> b1. *nix: sudo apt install -y mongodb
+   <br> b2. *nix: sudo yum install -y mongodb-org (Follow Here to Add Repo: https://www.mongodb.com/docs/v8.0/tutorial/install-mongodb-on-red-hat/)
 3. Install Python Packages with Pip
    > a. Windows: python -m pip install django pymongo pillow
    <br> b. *nix: pip install django pymongo pillow
