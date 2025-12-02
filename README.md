@@ -6,7 +6,7 @@ I got bored, and this is a crappy project to replicate a videoplayer-like servic
 <br> It does have some basic functionality like Loop, Shuffle, and Playlists but that is about it.
 <br> 
 <br> ## Installation Guide 
-<br> (*Maybe, Haven't Really Tested It, Good Luck >.<*)
+<br> (*Maybe, Haven't Really Tested The Install Guide, Good Luck >.<*)
 1. Install Python (Tested on 3.14)
    > a. Windows: Download and Install (https://www.python.org/downloads/release/python-3140/)
    <br> b0. *nix: sudo apt install python3
