@@ -23,6 +23,6 @@ This is a crappy project to replicate a video player like service that is minima
    > a. Windows: Download and store FFmpeg.exe in the same directory as manage.py (https://www.gyan.dev/ffmpeg/builds/)
    <br> b0. *nix: sudo apt-get install ffmpeg
    <br> b1. *nix: https://ffmpeg.org/download.html
-6. Modify ./vibetube/settings.py as needed (Video Directory and Secret Key)
+6. Modify ./vibetube/settings.py as needed (Video Directory and Django Secret Key)
 7. python manage.py migrate
 8. python manage.py runserver
